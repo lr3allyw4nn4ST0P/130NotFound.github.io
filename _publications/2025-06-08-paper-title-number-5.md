@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Paper Title Number 5"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2026-06-15-paper-title-number-5
+excerpt: 'End of all the works.'
+date: 2026-06-15
+venue: 'Journal 1'
+slidesurl: 'https://academicpages.github.io/files/slides5.pdf'
+paperurl: 'https://academicpages.github.io/files/paper5.pdf'
+citation: 'cyan, BO. (2026). &quot;Paper Title Number 5.&quot; <i>Journal 1</i>. 1(5).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+零点了，我饿得不行了
