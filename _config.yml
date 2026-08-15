@@ -23,7 +23,7 @@ repository               : "academicmages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s41.ax1x.com/2026/08/15/pmXavTg.jpg"
   name             : "Bocyan"
   pronouns         : "they" # example: "she/her"  
   bio              : "跳劈我的时候，我的眼睛会变大"
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "l3ocy4n" # Username
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
