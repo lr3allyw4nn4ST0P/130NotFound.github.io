@@ -13,7 +13,7 @@ title                    : "worldends.yesterday"
 title_separator          : "-"
 name                     : &name "Bocyan"
 description              : &description "For everything I HATE yet CHERISH"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://lr3allyw4nn4ST0P//130NotFound.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://lr3allyw4nn4st0p.github.io/130NotFound.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicmages.github.io"
