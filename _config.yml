@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "worldends - yesterday"
+title                    : "Tomorrow - comes - TODAY"
 title_separator          : "-"
 name                     : &name "Bocyan"
 description              : &description "For everything I HATE yet CHERISH"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -71,7 +71,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "l3o?y4n" # Username
+  steam            : https://steamcommunity.com/profiles/76561199127758352/ # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
