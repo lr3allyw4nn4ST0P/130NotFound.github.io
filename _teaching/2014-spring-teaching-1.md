@@ -1,5 +1,5 @@
 ---
-title: "GoodLuck.inc"
+title:"GoodLuck.inc"
 collection:teaching
 type:"Bullshit"
 venue:"Somewhere Dark and Rust"
