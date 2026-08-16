@@ -11,4 +11,4 @@ paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'cyan, BO. (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-洗脚的时候，顺手把袜子搭在手边推车里的毛泽东选集上，想了一想感觉非常不妥，把两只袜子都转移到另一侧的梯子上，看来我还是有些思想觉悟。
+洗脚的时候，顺手把袜子搭在手边推车里的毛泽东选集上，想了想感觉非常不妥，把两只袜子都转移到另一侧的梯子上，看来我还是有些思想觉悟。
