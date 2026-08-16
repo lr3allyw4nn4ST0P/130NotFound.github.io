@@ -17,4 +17,5 @@ redirect_from:
 
 在被火山灰呛到说不出话之前，蹲下来假装自己是一块石头，在地球村的[鱼](https://www.bilibili.com/video/BV1nG411E7jQ/?spm_id_from=333.337.search-card.all.click&vd_source=cb651fe5e418068138863e2feaecf6fc)眼镜头下，和兄弟姐妹们拉起手来，诚挚地相亲相恨。如果有人觉得知道我在说什么，那我就不知道。
 
-[苩青](http://3040259449.qzone.qq.com)如是说。
+[苩青](https://user.qzone.qq.com/3040259449/photo/V51wwbtU2BMvH32XtjxG2tsY6R3wjyqT/)如是说。
+
