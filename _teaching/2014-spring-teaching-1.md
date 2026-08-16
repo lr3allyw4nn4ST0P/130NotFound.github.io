@@ -1,7 +1,8 @@
 ---
-title: "111"
+title: "GoodLuck.inc"
 collection: teaching
-venue: "11"
-date: 2014-01-01
+type:"Bullshit"
+venue: "Somewhere Dark and Rust"
+date: 2026-08-16
 ---
-111111
+我还没想好说什么。
